@@ -9,4 +9,5 @@ Command line tools used by me to simplify things
 
 # Mac
 * Change hidden flag of file/repository
- > chflags -v nohidden opt
+
+  ```` chflags -v nohidden opt ````
